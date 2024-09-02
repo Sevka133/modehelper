@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\obj\Debug\ModeHelper.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\obj\Debug\ModeHelper.Form1.resources
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\obj\Debug\ModeHelper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\obj\Debug\ModeHelper.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\obj\Debug\ModeHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\bin\Debug\ModeHelper.exe.config
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\bin\Debug\ModeHelper.exe
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\bin\Debug\ModeHelper.pdb
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\obj\Debug\ModeHelper.exe
+C:\Users\Administrator\Desktop\ModeHelper\ModeHelper\obj\Debug\ModeHelper.pdb
